@@ -1,2 +1,2 @@
-# booking-app-project
+## booking-app-project
 Still under development ...
